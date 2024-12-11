@@ -1,11 +1,12 @@
 # 🤖 Riley Bakes
 <p align="right">
   📫
-  " "
+  &nbsp;
   <a href="www.linkedin.com/in/riley-bakes" rel="nofollow"><img src="https://i.sstatic.net/gVE0j.png"></a>
-  " "
+  &nbsp;
   <a href="https://github.com/r-bakes" rel="nofollow"><img src="https://i.sstatic.net/tskMh.png"></a>
 </p>
+
 _B.S. Computational Math_ <br />
 _B.S Engineering Science_ @ Penn State <br />
 _👔 @ Capital One_ <br />
