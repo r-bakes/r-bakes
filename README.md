@@ -46,11 +46,11 @@
   </a>
 </div>
 
-<p align="left">🏢 @ Capital One<br/>B.S. Computational Math<br />B.S. Engineering Science</p>
+<p align="center">🏢 @ Capital One<br/>B.S. Computational Math<br />B.S. Engineering Science</p>
 
 ###
 
-<p align="center">Engineer with a passion for building things with others and who enjoys making games and learning about AI in his free time.</p>
+<p align="left">Engineer with a passion for building things with others and who enjoys making games and learning about AI in his free time.</p>
 
 
 
