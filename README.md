@@ -1,8 +1,8 @@
 # 🤖 Riley Bakes
 <p align="right">
   📫 
-  <a href="www.linkedin.com/in/riley-bakes" rel="nofollow"><img src="https://i.sstatic.net/gVE0j.png" width="3.5%" style="max-width: 100%;"></a>
-  <a href="https://github.com/r-bakes" rel="nofollow"><img src="https://i.sstatic.net/tskMh.png" width="3.5%" style="max-width: 100%;"></a>
+  <a href="www.linkedin.com/in/riley-bakes" rel="nofollow"><img src="https://i.sstatic.net/gVE0j.png"></a>
+  <a href="https://github.com/r-bakes" rel="nofollow"><img src="https://i.sstatic.net/tskMh.png"></a>
 </p>
 _B.S. Computational Math_ <br />
 _B.S Engineering Science_ @ Penn State <br />
