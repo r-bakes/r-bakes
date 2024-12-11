@@ -1,13 +1,11 @@
 # 🤖 Riley Bakes
 📫 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/riley-bakes)
 &nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/r-bakes)
-
-
-_B.S. Computational Math, Engineering Science @ Penn State_ 
-
-
-_Currently work at Capital One_
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/r-bakes) <br />
+<br />
+_B.S. Computational Math_ <br />
+_B.S Engineering Science_ @ Penn State <br />
+_Currently work at Capital One_ <br />
 
 Engineer with a passion for building things with others and enjoys making games and learning about AI in his free time. Prior to shifting focus to engineering Riley served as a functional resource on several software projects. This has led to him being an engineer with strong communication and teaming skills.
 
