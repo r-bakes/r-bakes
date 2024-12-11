@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Engineer with a passion for building things with others and who enjoys making games and learning about AI in his free time.</p>
+<p align="center">Engineer with a passion for building things with others and who enjoys making games and learning about AI in his free time.</p>
 
 
 
