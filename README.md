@@ -29,4 +29,4 @@
 
 ###
 
-<p align="left">Cloud native engineer with a passion for building things with others and enjoys making games and learning about AI in his free time. Prior to shifting focus to engineering Riley served as a functional resource on several software projects. This has led to him being an engineer with strong communication and teaming skills.</p>
+<p align="left">Cloud native engineer with a passion for building things with others and enjoys making games and learning about AI in his free time.</p>
