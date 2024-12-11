@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">Cloud native engineer with a passion for building things with others and enjoys making games and learning about AI in his free time.</p>
+<p align="left">Engineer with a passion for building things with others and who enjoys making games and learning about AI in his free time.</p>
 
 
 
