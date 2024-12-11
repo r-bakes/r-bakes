@@ -1,8 +1,9 @@
 # 🤖 Riley Bakes
-📫 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/riley-bakes)
+## 📫 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/riley-bakes)
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/r-bakes)
 _B.S. Computational Math, Engineering Science @ Penn State_
+
 
 _Currently work at Capital One_
 
