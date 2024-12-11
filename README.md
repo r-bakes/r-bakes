@@ -1,30 +1,32 @@
-# 🤖 Riley Bakes
-<p align="right">
-  📫
-  &nbsp;
-  <a href="www.linkedin.com/in/riley-bakes" rel="nofollow"><img src="https://i.sstatic.net/gVE0j.png"></a>
-  &nbsp;
-  <a href="https://github.com/r-bakes" rel="nofollow"><img src="https://i.sstatic.net/tskMh.png"></a>
-</p>
+<h1 align="left">🤖 Riley Bakes</h1>
 
-_B.S. Computational Math_ <br />
-_B.S Engineering Science_ @ Penn State <br />
-_👔 @ Capital One_ <br />
+###
 
-Cloud native engineer with a passion for building things with others and enjoys making games and learning about AI in his free time. Prior to shifting focus to engineering Riley served as a functional resource on several software projects. This has led to him being an engineer with strong communication and teaming skills.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r-bakes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r-bakes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🔨 Toolbelt
-##### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-##### Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-##### Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+<div align="left">
+  <a href="www.linkedin.com/in/riley-bakes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left"> 🏢 @ Capital One <br/>B.S. Computational Math<br />B.S. Engineering Science @ Penn State</p>
+
+###
+
+<p align="left">Cloud native engineer with a passion for building things with others and enjoys making games and learning about AI in his free time. Prior to shifting focus to engineering Riley served as a functional resource on several software projects. This has led to him being an engineer with strong communication and teaming skills.</p>
