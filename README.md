@@ -45,21 +45,31 @@
 </div>
 
 <div align="center">
+  <!-- LinkedIn button -->
   <a href="https://www.linkedin.com/in/riley-bakes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="linkedin logo"
+    />
   </a>
 
-  <p style="
-    display: inline-block;
-    text-align: left;
-    margin-top: 1em;
-    max-width: 200px;
-  ">
-    🏢 @ Capital One<br/>
-    M.S. Computer Science (In Progress)<br/>
-    B.S. Computational Math<br/>
-    B.S. Engineering Science
-  </p>
+  <!-- A wrapper for the text so it can be left-aligned while still centered as a block -->
+  <div
+    style="
+      display: inline-block;
+      text-align: left;
+      margin-top: 1em;
+      max-width: 200px;
+    "
+  >
+    <p>
+      🏢 @ Capital One<br />
+      M.S. Computer Science (In Progress)<br />
+      B.S. Computational Math<br />
+      B.S. Engineering Science
+    </p>
+  </div>
 </div>
 
 ###
