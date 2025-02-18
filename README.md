@@ -46,7 +46,7 @@
   </a>
 </div>
 
-<p align="center">🏢 @ Capital One<br/>B.S. Computational Math<br />B.S. Engineering Science</p>
+<p align="center">🏢 @ Capital One<br/>M.S. Computer Science (In Progress)<br/>B.S. Computational Math<br/>B.S. Engineering Science</p>
 
 ###
 
