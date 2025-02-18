@@ -47,10 +47,7 @@
 </div>
 
 <div align="center">
-  <p align="center">🏢 @ Capital One</p>
-  <p align="center">M.S. Computer Science (In Progress)
-  <p align="center">B.S. Computational Math</p>
-  <p align="center">B.S. Engineering Science</p>
+  <p align="left">🏢 @ Capital One<br/>M.S. Computer Science (In Progress)<br/>B.S. Computational Math<br/>B.S. Engineering Science</p>
 </div>
 
 ###
