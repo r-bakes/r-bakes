@@ -50,7 +50,7 @@
   </a>
   <p>
     🏢 @ Capital One<br />
-    M.S. Computer Science (In Progress)<br />
+    M.Eng. Computer Science (In Progress)<br />
     B.S. Computational Math<br />
     B.S. Engineering Science
   </p>
