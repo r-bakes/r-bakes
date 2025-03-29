@@ -1,4 +1,4 @@
-<h1 align="left">🎨 Riley Bakes</h1>
+<h1 align="left">💡 Riley Bakes</h1>
 
 ###
 
