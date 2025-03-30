@@ -66,7 +66,7 @@ Entering graduate school Fall of 2025. Beyond my professional work, I enjoy expl
 <p>  
 The projects taking up most of this time right now are:<br/>
 🎓 Graduate School - Masters in Computer Science.<br/>
-🤖 Enter the Dungeon - A Roguelite game used to learn front-end stacks. See projects below.
+🤖 Enter the Dungeon - A Roguelite game used to learn front-end stacks. See the repo by the same name.
 </p>
 
 
