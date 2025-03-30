@@ -58,7 +58,14 @@
 
 ###
 
-<p align="left">Engineer with a passion for building things with others and who enjoys making games and learning about AI in his free time.</p>
+<p align="left">I’m a cloud-native software engineer with 4+ years of experience designing and building robust distributed backend applications and APIs. My career began in functional roles on diverse software projects, where I developed strong communication and collaboration skills that continue to enhance my engineering approach today.
+
+Entering graduate school Fall of 2025. Beyond my professional work, I enjoy exploring game development and learning about AI.
+
+The projects taking up most of this time right now are:
+🎓 Graduate School - Masters in Computer Science.
+🤖 Enter the Dungeon - A Roguelite game used to learn front-end stacks. See projects below.
+</p>
 
 
 
