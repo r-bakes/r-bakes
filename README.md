@@ -64,7 +64,7 @@
 Entering graduate school Fall of 2025. Beyond my professional work, I enjoy exploring game development and learning about AI.
 <p/>
 <p>  
-The projects taking up most of this time right now are:<br/>
+The projects taking up most of my time right now are:<br/>
 🎓 Graduate School - Masters in Computer Science.<br/>
 🤖 Enter the Dungeon - A Roguelite game used to learn front-end stacks. See the repo by the same name.
 </p>
