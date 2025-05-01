@@ -50,7 +50,7 @@
   </a>
   <p>
     🏢 @ Capital One<br />
-     M.Eng. Computer Science<br />
+    M.Eng. Computer Science<br />
     B.S. Computational Math<br />
     B.S. Engineering Science
   </p>
@@ -61,7 +61,7 @@
 <p align="left">I’m a cloud-native software engineer with 4+ years of experience designing and building robust distributed backend applications and APIs. My career began in functional roles on diverse software projects, where I developed strong communication and collaboration skills that continue to enhance my engineering approach today.
 </p>
 <p>
-Entering graduate school Fall of 2025. Beyond my professional work, I enjoy exploring game development and learning about AI.
+Entering graduate school Fall of 2025. Beyond my professional work, I enjoy exploring agentic AI and game development.
 <p/>
 <p>  
 The projects taking up most of my time right now are:<br/>
