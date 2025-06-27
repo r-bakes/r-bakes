@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/rust/plain.svg" height=30 alt="rust logo"></img>
+  <img src="https://devicon-website.vercel.app/api/rust/plain.svg" height=30 alt="rust logo" color=%234787D2></img>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
