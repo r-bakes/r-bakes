@@ -60,11 +60,8 @@
 
 ###
 
-<p align="left">I’m a cloud-native software engineer with 4+ years of experience designing and building robust distributed backend applications. My career began in functional roles on diverse software projects where I developed strong communication and collaboration skills that continue to enhance my engineering approach today.
+<p align="left">Cloud-native backend software engineer with 4+ YOE including designing a 40M+ message / day financial system. Now diving into the intersection of ML and distributed systems in depth during my Cornell M.Eng. Computer Science program.
 </p>
-<p>
-Entering graduate school Fall of 2025. Beyond my professional work, I enjoy exploring distributed systems, agentic AI, statistics, math, and game development.
-<p/>
 <p>  
 The projects taking up most of my time right now are:<br/>
 🎓 Graduate School - Masters in Computer Science.<br/>
