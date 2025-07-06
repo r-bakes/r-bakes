@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">Cloud-native backend software engineer with 4+ YOE including designing a 40M+ message / day financial system. Now diving into the intersection of ML and distributed systems in depth during my Cornell M.Eng. Computer Science program.
+<p align="left">Cloud-native backend software engineer with 4+ YOE including developing a 40M+ message / day financial system. Now diving into the intersection of ML and distributed systems in depth during my Cornell M.Eng. Computer Science program.
 </p>
 <p>  
 The projects taking up most of my time right now are:<br/>
