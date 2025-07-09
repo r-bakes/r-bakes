@@ -1,17 +1,19 @@
 <h1 align="center">🎨 Riley Bakes</h1>
 
-<!-- ─── GitHub stats ───────────────────────────────────────────────────── -->
+<!-- ─── GitHub Stats ─────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-bakes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r-bakes&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <a href="https://github.com/r-bakes">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=r-bakes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/r-bakes">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-bakes&layout=compact&langs_count=8&theme=dracula&hide_border=false" alt="Top languages" />
+  </a>
 </p>
 
 <!-- ─── Tech stack icons ───────────────────────────────────────────────── -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://devicon-website.vercel.app/api/rust/plain.svg" height="30" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
