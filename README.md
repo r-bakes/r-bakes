@@ -45,8 +45,11 @@
   </a>
 </p>
 
-<p align="center">
-  🏢 Capital&nbsp;One &nbsp;•&nbsp; M.Eng.&nbsp;Computer&nbsp;Science &nbsp;•&nbsp; B.S.&nbsp;Computational&nbsp;Math &nbsp;•&nbsp; B.S.&nbsp;Engineering&nbsp;Science
+<p>
+    🏢 @ Capital One<br />
+    M.Eng. Computer Science<br />
+    B.S. Computational Math<br />
+    B.S. Engineering Science
 </p>
 
 ---
