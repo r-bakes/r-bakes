@@ -29,7 +29,7 @@
 </p>
 
 <!-- ─── Social / résumé strip ──────────────────────────────────────────── -->
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/riley-bakes" target="_blank">
     <img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn badge" />
   </a>
