@@ -38,7 +38,7 @@
 <p align="center">
     🏢 @ Capital One<br />
     M.Eng. Computer Science<br />
-    B.S. Computational Math<br />
+    B.S. Math<br />
     B.S. Engineering Science
 </p>
 
