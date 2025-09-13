@@ -45,7 +45,7 @@
 ---
 
 <p align="left">
-Cloud-native backend software engineer with 5+ YOE including building a 40M msg / day financial messaging system.  
+Cloud-native backend software engineer with 4+ YOE including building a 40M msg / day financial messaging system.  
 Now diving into the intersection of ML and distributed systems in Cornell’s M.Eng. CS program.
 </p>
 
