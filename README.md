@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
     🏢 @ Capital One<br />
     M.Eng. Computer Science<br />
     B.S. Math<br />
