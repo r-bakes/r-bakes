@@ -2,9 +2,9 @@
 
 <!-- ─── GitHub Stats ─────────────────────────────────────────────── -->
 <p align="center">
-  <a href="https://github.com/r-bakes">
+<!--   <a href="https://github.com/r-bakes">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=r-bakes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub stats" />
-  </a>
+  </a> -->
   <a href="https://github.com/r-bakes">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-bakes&layout=compact&langs_count=8&theme=dracula&hide_border=false" alt="Top languages" />
   </a>
@@ -51,5 +51,5 @@ Now diving into the intersection of ML and distributed systems in Cornell’s M.
 <p align="left">
 <strong>Currently focused on:</strong><br>
 &nbsp;•&nbsp;🎓&nbsp;Graduate coursework & capstone project<br>
-&nbsp;•&nbsp;🤖&nbsp;Enter&nbsp;the&nbsp;Dungeon – roguelite side-project for learning modern front-end stacks
+&nbsp;•&nbsp;🤖&nbsp;Enter&nbsp;the&nbsp;Dungeon – roguelite side-project for learning modern front-end stacks. [DEMO-LINK](https://enter-the-dungeon.s3.us-east-1.amazonaws.com/index.html)
 </p>
