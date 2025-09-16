@@ -50,6 +50,6 @@ Now diving into the intersection of ML and distributed systems in Cornell’s M.
 
 <p align="left">
 <strong>Currently focused on:</strong><br>
-•🎓Graduate coursework & capstone project<br>
-•🤖Enter the Dungeon – roguelite side-project for learning modern front-end stacks. <a href="https://enter-the-dungeon.s3.us-east-1.amazonaws.com/index.html">INTERACTIVE DEMO</a>
+•&nbsp;🎓&nbsp;Graduate coursework & capstone project<br>
+•&nbsp;🤖&nbsp;Enter the Dungeon – roguelite side-project for learning modern front-end stacks. <a href="https://enter-the-dungeon.s3.us-east-1.amazonaws.com/index.html">Interactice Game Demo</a>
 </p>
