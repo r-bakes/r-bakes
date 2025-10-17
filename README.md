@@ -1,41 +1,13 @@
-<h1 align="center">🎨 Riley Bakes</h1>
-
-<!-- ─── GitHub Stats ─────────────────────────────────────────────── -->
-<p align="center">
-<!--   <a href="https://github.com/r-bakes">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=r-bakes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub stats" />
-  </a> -->
-  <a href="https://github.com/r-bakes">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-bakes&layout=compact&langs_count=8&theme=dracula&hide_border=false" alt="Top languages" />
-  </a>
-</p>
-
-<!-- ─── Tech stack icons ───────────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />&nbsp;
-</p>
+<h1 align="left">🎨 Riley Bakes</h1>
 
 <!-- ─── Social / résumé strip ──────────────────────────────────────────── -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/riley-bakes" target="_blank">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn badge" />
-  </a>
-</p>
+
 <p align="left">
     🏢 @ Capital One<br />
     M.Eng. Computer Science<br />
     B.S. Engineering Science<br />
     B.S. Mathematics
 </p>
-
----
 
 <p align="left">
 Cloud-native backend software engineer with 4 YOE including building a 40M msg / day financial system with strong consistency and exactly once delivery requirements.  
