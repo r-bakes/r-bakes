@@ -1,7 +1,3 @@
-<h1 align="left">🎨 Riley Bakes</h1>
-
-<!-- ─── Social / résumé strip ──────────────────────────────────────────── -->
-
 <p align="left">
     🏢 @ Capital One<br />
     M.Eng. Computer Science<br />
