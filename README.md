@@ -7,7 +7,7 @@
 
 <p align="left">
 Cloud-native backend software engineer with 4 YOE including building a 40M msg / day financial system with strong consistency and exactly once delivery requirements.  
-Now diving into the intersection of ML Systems and applied ML in Cornell’s M.Eng. CS program.
+Currently pursuing a graduate degree in Computer Science @ Cornell focusing on distributed systems, machine learning systems, and machine learning.
 </p>
 
 <p align="left">
